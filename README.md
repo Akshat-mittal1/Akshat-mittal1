@@ -48,7 +48,7 @@ I'm **Akshat Mittal**, a Computer Science student and aspiring **Data Scientist*
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,sql,mysql,html,css,js,github,git,excel,pandas,matplotlib,powerbi" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,java,github,excel,matplotlib" />
 </p>
 
 ---
