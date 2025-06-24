@@ -1,7 +1,7 @@
 <!-- Akshat-mittal1/Akshat-mittal1 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. -->
 
 <p align="center">
-  <img src="[https://i.imgur.com/zZ7WcK1.png](https://github.com/Akshat-mittal1/Akshat-mittal1/blob/main/avtar.jpg?raw=true)" alt="Akshat Mittal Banner" width="60%" />
+  <img src="https://github.com/Akshat-mittal1/Akshat-mittal1/blob/main/avtar.jpg?raw=true" alt="Akshat Mittal Banner" width="60%" />
 </p>
 
 <p align="center">
