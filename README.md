@@ -41,7 +41,7 @@ I'm **Akshat Mittal**, a Computer Science student and aspiring **Data Scientist*
 ## 📫 Reach Me
 
 - 📧 Email: akshatmittal798@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/akshat-mittal798]([https://linkedin.com/in/akshatmittal1](https://www.linkedin.com/in/akshat-mittal798/))
+- 💼 LinkedIn: [linkedin.com/in/akshat-mittal798](https://www.linkedin.com/in/akshat-mittal798/)
 
 ---
 
