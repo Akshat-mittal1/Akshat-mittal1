@@ -18,14 +18,6 @@ I'm **Akshat Mittal**, a Computer Science student and aspiring **Data Scientist*
 - 💼 Interested in Python, SQL, Data Science, and Visualization
 - 🌐 Focused on solving real-world problems with code
 
----
-
-## 🔭 Currently Working On
-
-- 🧠 Real-Time **Financial Fraud Detection System**
-- 💸 **Student Expense & Budget Tracker** with dynamic reports
-- 💻 Improving my GitHub profile and daily LeetCode push
-- 📚 Completing semester subjects: CN, FLAT, OOAD, RMCS, PMCS, DVI
 
 ---
 
@@ -34,7 +26,7 @@ I'm **Akshat Mittal**, a Computer Science student and aspiring **Data Scientist*
 - 📊 Power BI & Excel dashboards
 - 🐍 Python Automation + Data Cleaning
 - 🧠 Advanced ML: Explainability & Model Deployment
-- ☁️ Deploying Flask/ML apps via Render/Heroku
+- ☁️ Deploying Flask/ML apps
 
 ---
 
@@ -48,7 +40,7 @@ I'm **Akshat Mittal**, a Computer Science student and aspiring **Data Scientist*
 
 ## 📫 Reach Me
 
-- 📧 Email: akshatmittal.official@gmail.com  
+- 📧 Email: akshatmittal798@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/akshatmittal1](https://linkedin.com/in/akshatmittal1)
 
 ---
@@ -100,10 +92,7 @@ I'm **Akshat Mittal**, a Computer Science student and aspiring **Data Scientist*
 
 ## 🧊 Fun Facts
 
-- 🔍 I avoid long YouTube tutorials — love **W3Schools**, **HackerRank**, and docs!
-- 📊 I track all goals in Excel — even daily prep time!
-- 🔥 I push to GitHub daily as a discipline.
-
+- 🔍 I avoid long YouTube tutorials — love docs/books!
 ---
 
 **Thanks for visiting my profile! Drop a ⭐ on any project you like. Let's connect and build together.**
