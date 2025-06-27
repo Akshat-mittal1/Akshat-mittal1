@@ -1,10 +1,5 @@
 <!-- Akshat-mittal1/Akshat-mittal1 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. -->
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akshat-mittal1/snake/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 <p align="center">
   <img src="https://github.com/Akshat-mittal1/Akshat-mittal1/blob/main/avtar2.jpg?raw=true" alt="Akshat Mittal Banner" width="30%" />
@@ -16,7 +11,6 @@
 </p>
 
 ---
-
 # 👨‍💻 About Me
 
 I'm **Akshat Mittal**, a Computer Science student and aspiring **Data Scientist** passionate about building impactful projects using data and intelligent systems.
@@ -27,16 +21,12 @@ I'm **Akshat Mittal**, a Computer Science student and aspiring **Data Scientist*
 
 
 ---
-
-
-
 ## 📫 Reach Me
 
 - 📧 Email: akshatmittal798@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/akshat-mittal798](https://www.linkedin.com/in/akshat-mittal798/)
 
 ---
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -44,7 +34,6 @@ I'm **Akshat Mittal**, a Computer Science student and aspiring **Data Scientist*
 </p>
 
 ---
-
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
@@ -57,8 +46,6 @@ I'm **Akshat Mittal**, a Computer Science student and aspiring **Data Scientist*
 </p>
 
 ---
-
-
 ## 🔥 Contribution Graph
 
 <p align="center">
@@ -66,6 +53,11 @@ I'm **Akshat Mittal**, a Computer Science student and aspiring **Data Scientist*
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshat-mittal1/snake/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 
 **Thanks for visiting my profile! Drop a ⭐ on any project you like. Let's connect and build together.**
