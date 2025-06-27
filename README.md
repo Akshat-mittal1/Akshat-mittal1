@@ -1,10 +1,15 @@
 <!-- Akshat-mittal1/Akshat-mittal1 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. -->
 
+## 🐍 Contribution Snake
+
 <p align="center">
-  ## 🐍 Contribution Snake
-  ![GitHub Snake](https://raw.githubusercontent.com/Akshat-mittal1/snake/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/Akshat-mittal1/snake/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
   <img src="https://github.com/Akshat-mittal1/Akshat-mittal1/blob/main/avtar2.jpg?raw=true" alt="Akshat Mittal Banner" width="30%" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Akshat+Mittal+👋;Aspiring+Data+Scientist+📊;Python+%7C+SQL+%7C+ML+Lover+🚀;Always+Learning%2C+Building+and+Improving+💡" alt="Typing Intro" />
