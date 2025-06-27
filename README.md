@@ -28,22 +28,7 @@ I'm **Akshat Mittal**, a Computer Science student and aspiring **Data Scientist*
 
 ---
 
-## 🌱 Currently Learning
 
-- 📊 Power BI & Excel dashboards
-- 🐍 Python Automation + Data Cleaning
-- 🧠 Advanced ML: Explainability & Model Deployment
-- ☁️ Deploying Flask/ML apps
-
----
-
-## 👯 Open to Collaborate On
-
-- Data Visualization Dashboards
-- Real-World ML Pipelines
-- Python-based tools and scripts
-
----
 
 ## 📫 Reach Me
 
