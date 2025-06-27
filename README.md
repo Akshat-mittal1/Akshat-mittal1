@@ -67,10 +67,6 @@ I'm **Akshat Mittal**, a Computer Science student and aspiring **Data Scientist*
 
 ---
 
-## 🧊 Fun Facts
-
-- 🔍 I avoid long YouTube tutorials — love docs/books!
----
 
 **Thanks for visiting my profile! Drop a ⭐ on any project you like. Let's connect and build together.**
 
