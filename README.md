@@ -1,7 +1,10 @@
 <!-- Akshat-mittal1/Akshat-mittal1 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. -->
 
 <p align="center">
-  ![Snake animation](https://github.com/akshat-mittal1/snake/blob/output/github-contribution-grid-snake.svg)
+  ## 🐍 Contribution Snake
+
+![GitHub Snake](https://raw.githubusercontent.com/Akshat-mittal1/snake/output/github-contribution-grid-snake.svg)
+
 
   <img src="https://github.com/Akshat-mittal1/Akshat-mittal1/blob/main/avtar2.jpg?raw=true" alt="Akshat Mittal Banner" width="30%" />
 </p>
