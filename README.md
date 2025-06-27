@@ -45,12 +45,6 @@ I'm **Akshat Mittal**, a Computer Science student and aspiring **Data Scientist*
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-mittal1&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
----
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat-mittal1&theme=react-dark" />
-</p>
 
 ---
 ## 🐍 Contribution Snake
