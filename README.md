@@ -73,21 +73,6 @@ I'm **Akshat Mittal**, a Computer Science student and aspiring **Data Scientist*
 
 ---
 
-## 🧠 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akshat-mittal1&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ## 🔥 Contribution Graph
 
