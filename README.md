@@ -11,7 +11,7 @@
 
 ## 👋 Hi, I'm Akshat Mittal
 
-🎓 **BTech CSE | 5th Semester**  
+🎓 **UPES | B.Tech CSE | 5th Semester**  
 🚀 Aspiring **Data Scientist** | Passionate about **Python, SQL, and ML**  
 📈 I enjoy solving problems, building real-world projects, and learning new tools.
 </p>
