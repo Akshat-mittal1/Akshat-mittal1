@@ -50,4 +50,31 @@
 </p>
 
 ---
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📊 Smart Expense Tracker</h3>
+      <p>A full-stack student expense tracker built using <strong>Python, HTML, CSS</strong>. It helps users manage and visualize their daily expenses.</p>
+      <a href="https://github.com/Akshat-mittal1/Smart_Expense_Tracker" target="_blank">
+        <img src="https://img.shields.io/badge/Open-Project-blue?style=for-the-badge" alt="Open Project" />
+      </a>
+      <a href="https://github.com/Akshat-mittal1/Smart_Expense_Tracker/stargazers" target="_blank">
+        <img src="https://img.shields.io/github/stars/Akshat-mittal1/Smart_Expense_Tracker?style=for-the-badge&label=Star&color=yellow" alt="Star Project" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🧠 CodeForge – LeetCode</h3>
+      <p>A curated repository of <strong>Python LeetCode solutions</strong> with detailed explanations and time complexity. Ideal for consistent prep.</p>
+      <a href="https://github.com/Akshat-mittal1/codeforge-leetcode" target="_blank">
+        <img src="https://img.shields.io/badge/Open-Project-blue?style=for-the-badge" alt="Open Project" />
+      </a>
+      <a href="https://github.com/Akshat-mittal1/codeforge-leetcode/stargazers" target="_blank">
+        <img src="https://img.shields.io/github/stars/Akshat-mittal1/codeforge-leetcode?style=for-the-badge&label=Star&color=yellow" alt="Star Project" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
