@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Akshat-mittal1&label=Visitors&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
-<!-- 🧑‍💼 About + Image Inline -->
+<!-- 🧑‍💼 About + Image Inline  -->
 <p align="left">
   <img align="right" src="https://github.com/Akshat-mittal1/Akshat-mittal1/blob/main/avtar2.jpg?raw=true" width="200" style="border-radius:12px;" alt="Akshat Mittal Avatar"/>
 
