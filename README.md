@@ -1,6 +1,6 @@
 <!-- Akshat-mittal1/Akshat-mittal1 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. -->
 
-<!-- 🧭 Profile Visitor Counter -->
+<!-- 🧭 Profile Visitor Counter --->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Akshat-mittal1&label=Visitors&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
